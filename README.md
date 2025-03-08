@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hiru!</h1>
+
+<h1 align="center">Hi 👋, I'm Hirun Niluminda Indrachapa!</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/hirun-niluminda-indrachapa">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/hirun.niluminda.indrachapa">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/thenilumindaweerakkodi">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@CyberSecWithHiru">
+    <img src="https://img.shields.io/badge/YouTube-CyberSec%20With%20Hiru-red?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="mailto:Nilumindaweerakkodi960@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
@@ -34,42 +47,48 @@
 ---
 
 ### 🚀 *My Top Projects:*
-- [🔗 *Phishing Simulation Tool*](https://github.com/yourusername/phishing-tool) - A tool for ethical phishing testing.
-- [🔗 *Bug Bounty Toolkit*](https://github.com/yourusername/bug-bounty-toolkit) - A set of scripts for bug bounty hunting.
-- [🔗 *Web Pentesting Framework*](https://github.com/yourusername/web-pentest) - A framework for testing web security vulnerabilities.
+- [🔗 *Phishing Simulation Tool*](https://github.com/Hirun-Niluminda-Indrachapa/phishing-tool) - A tool for ethical phishing testing.
+- [🔗 *Bug Bounty Toolkit*](https://github.com/Hirun-Niluminda-Indrachapa/bug-bounty-toolkit) - A set of scripts for bug bounty hunting.
+- [🔗 *Web Pentesting Framework*](https://github.com/Hirun-Niluminda-Indrachapa/web-pentest) - A framework for testing web security vulnerabilities.
 
 ---
 
 ### 📊 *GitHub Stats & Activity:*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hirun-Niluminda-Indrachapa&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirun-Niluminda-Indrachapa&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hirun-Niluminda-Indrachapa&theme=react-dark" />
 </p>
 
 ---
 
 ### 📫 *How to Reach Me:*
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/hirun-niluminda-indrachapa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.facebook.com/hirun.niluminda.indrachapa">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.instagram.com/thenilumindaweerakkodi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@CyberSecWithHiru">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:Nilumindaweerakkodi960@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Hirun-Niluminda-Indrachapa&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
